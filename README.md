@@ -44,36 +44,36 @@ We harmonize **MIRAGE-AppAct2024** and **UTMobileNet2021** into a single schema,
 
 ```
 Combined_Dataset/
-├── videocall/VoIP/                  # 31,774 sessions
-├── audiocall/VoIP/                  # 25,665 sessions
+├── videocall/VoIP/                  # 31,774 sessions (2,025.9h)
+├── audiocall/VoIP/                  # 25,665 sessions (1,142.0h)
 ├── background/
-│   ├── VoIP/                        # 27,343 sessions
-│   ├── Video_Streaming/             #  1,339 sessions
-│   └── Gaming/                      #    142 sessions
+│   ├── VoIP/                        # 27,343 sessions (389.2h)
+│   ├── Video_Streaming/             #  1,339 sessions (5.6h)
+│   └── Gaming/                      #    142 sessions (0.3h)
 ├── video-streaming/
-│   ├── Video_Streaming/             # 10,845 sessions
-│   └── VoIP/                        #  2,500 sessions
-├── chat/VoIP/                       #  6,858 sessions
+│   ├── Video_Streaming/             # 10,845 sessions (360.5h)
+│   └── VoIP/                        #  2,500 sessions (6.8h)
+├── chat/VoIP/                       #  6,858 sessions (343.1h)
 ├── browsing/
-│   ├── Social_Media/                #    656 sessions
-│   ├── Video_Streaming/             #    233 sessions
-│   └── Navigation/                  #    209 sessions
-├── gaming-online/Gaming/            #    309 sessions
-├── social-post/Social_Media/        #    276 sessions
-├── upload/File_Transfer/            #    251 sessions
+│   ├── Social_Media/                #    656 sessions (5.4h)
+│   ├── Video_Streaming/             #    233 sessions (2.3h)
+│   └── Navigation/                  #    209 sessions (0.6h)
+├── gaming-online/Gaming/            #    309 sessions (6.6h)
+├── social-post/Social_Media/        #    276 sessions (46.5m)
+├── upload/File_Transfer/            #    251 sessions (1.6h)
 ├── download/
-│   ├── File_Transfer/               #    250 sessions
-│   └── Navigation/                  #    126 sessions
-├── directions/Navigation/           #    142 sessions
+│   ├── File_Transfer/               #    250 sessions (2.9h)
+│   └── Navigation/                  #    126 sessions (0.1h)
+├── directions/Navigation/           #    142 sessions (1.9h)
 ├── search/
-│   ├── Social_Media/                #    132 sessions
-│   ├── Music_Streaming/             #    126 sessions
-│   └── Video_Streaming/             #    115 sessions
-├── open-email/Email/                #    127 sessions
-└── music-streaming/Music_Streaming/ #    127 sessions
+│   ├── Social_Media/                #    132 sessions (1.6h)
+│   ├── Music_Streaming/             #    126 sessions (1.7h)
+│   └── Video_Streaming/             #    115 sessions (0.3h)
+├── open-email/Email/                #    127 sessions (28.2m)
+└── music-streaming/Music_Streaming/ #    127 sessions (23.1m)
 ```
 
-**Total: 109,545 sessions** (MIRAGE: 106,145 / UTMobileNet: 3,400)
+**Total: 109,545 sessions ~4,330 hours** (MIRAGE: 106,145 / UTMobileNet: 3,400)
 
 ### Unified Column Format
 
