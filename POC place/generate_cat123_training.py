@@ -30,9 +30,13 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 DATASET_PATH = (SCRIPT_DIR / ".." / "Combined_Dataset").resolve()
 
 # ── Config ────────────────────────────────────────────────────────────
+CLEAN_REGISTRY_PATH = (SCRIPT_DIR / ".." / "cleaning" / "clean_sessions_registry.json").resolve()
+with open(CLEAN_REGISTRY_PATH, 'r') as f:
+    CLEAN_REGISTRY = json.load(f)
+
 # We define Cat1, Cat2, Cat3 actions based on user requirements.
-CAT1_ACTIONS = {"video-streaming", "videocall", "gaming-online", "audiocall", "music-streaming"}
-CAT2_ACTIONS = {"chat", "browsing", "search", "social-post", "open-email", "directions"}
+CAT1_ACTIONS = {"videocall", "audiocall"}
+CAT2_ACTIONS = {"chat", "browsing", "search", "social-post", "open-email", "directions", "gaming-online", "video-streaming", "music-streaming"}
 CAT3_ACTIONS = {"download", "upload"}
 
 
@@ -53,15 +57,11 @@ def iso_format(dt: datetime) -> str:
 
 # ── Packet Reading Logic ──────────────────────────────────────────────
 def find_session_files(action: str) -> list:
-    """Find all Parquet files under Combined_Dataset/<action>/*"""
-    files = []
-    target_dir = DATASET_PATH / action
-    if target_dir.exists():
-        # Match any genre under this action
-        for genre_dir in target_dir.iterdir():
-            if genre_dir.is_dir():
-                files.extend(list(genre_dir.glob("*.parquet")))
-    return files
+    """Find pure session Parquet files using the pre-computed clean registry."""
+    if action in CLEAN_REGISTRY:
+        # Resolve to absolute paths based on DATASET_PATH
+        return [(DATASET_PATH / Path(p)).resolve() for p in CLEAN_REGISTRY[action]]
+    return []
 
 
 def read_session_packets(file_path: Path) -> tuple:

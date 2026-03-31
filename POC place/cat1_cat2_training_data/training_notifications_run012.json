@@ -1,2697 +1,2543 @@
 [
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:15Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:34:10Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 109100,
-                            "ulVolume": 31402,
-                            "dlVolume": 77698,
-                            "totalNbOfPackets": 356,
-                            "ulNbOfPackets": 155,
-                            "dlNbOfPackets": 201
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "50243 bps",
-                            "dlThroughput": "124317 bps",
-                            "ulPacketThroughput": "31.00 pps",
-                            "dlPacketThroughput": "40.20 pps"
-                        }
-                    }
-                ]
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:48:32Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:48:27Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1661019,
+              "ulVolume": 9042,
+              "dlVolume": 1651977,
+              "totalNbOfPackets": 1620,
+              "ulNbOfPackets": 109,
+              "dlNbOfPackets": 1511
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:15Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:34:10Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 174925,
-                            "ulVolume": 31432,
-                            "dlVolume": 143493,
-                            "totalNbOfPackets": 325,
-                            "ulNbOfPackets": 135,
-                            "dlNbOfPackets": 190
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "50291 bps",
-                            "dlThroughput": "229589 bps",
-                            "ulPacketThroughput": "27.00 pps",
-                            "dlPacketThroughput": "38.00 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:15Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:34:10Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 98060,
-                            "ulVolume": 29319,
-                            "dlVolume": 68741,
-                            "totalNbOfPackets": 353,
-                            "ulNbOfPackets": 144,
-                            "dlNbOfPackets": 209
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "46910 bps",
-                            "dlThroughput": "109986 bps",
-                            "ulPacketThroughput": "28.80 pps",
-                            "dlPacketThroughput": "41.80 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "14467 bps",
+              "dlThroughput": "2643163 bps",
+              "ulPacketThroughput": "21.80 pps",
+              "dlPacketThroughput": "302.20 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:20Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:34:15Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 435529,
-                            "ulVolume": 25132,
-                            "dlVolume": 410397,
-                            "totalNbOfPackets": 549,
-                            "ulNbOfPackets": 236,
-                            "dlNbOfPackets": 313
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "40211 bps",
-                            "dlThroughput": "656635 bps",
-                            "ulPacketThroughput": "47.20 pps",
-                            "dlPacketThroughput": "62.60 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:48:32Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:48:27Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1817014,
+              "ulVolume": 20450,
+              "dlVolume": 1796564,
+              "totalNbOfPackets": 1950,
+              "ulNbOfPackets": 206,
+              "dlNbOfPackets": 1744
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:20Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:34:15Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 1289539,
-                            "ulVolume": 34450,
-                            "dlVolume": 1255089,
-                            "totalNbOfPackets": 1323,
-                            "ulNbOfPackets": 402,
-                            "dlNbOfPackets": 921
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "55120 bps",
-                            "dlThroughput": "2008142 bps",
-                            "ulPacketThroughput": "80.40 pps",
-                            "dlPacketThroughput": "184.20 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:20Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:34:15Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 227753,
-                            "ulVolume": 16804,
-                            "dlVolume": 210949,
-                            "totalNbOfPackets": 559,
-                            "ulNbOfPackets": 85,
-                            "dlNbOfPackets": 474
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "26886 bps",
-                            "dlThroughput": "337518 bps",
-                            "ulPacketThroughput": "17.00 pps",
-                            "dlPacketThroughput": "94.80 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "32720 bps",
+              "dlThroughput": "2874502 bps",
+              "ulPacketThroughput": "41.20 pps",
+              "dlPacketThroughput": "348.80 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:25Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:34:20Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 231281,
-                            "ulVolume": 24302,
-                            "dlVolume": 206979,
-                            "totalNbOfPackets": 467,
-                            "ulNbOfPackets": 224,
-                            "dlNbOfPackets": 243
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "38883 bps",
-                            "dlThroughput": "331166 bps",
-                            "ulPacketThroughput": "44.80 pps",
-                            "dlPacketThroughput": "48.60 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:48:32Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:48:27Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 46829,
+              "ulVolume": 298,
+              "dlVolume": 46531,
+              "totalNbOfPackets": 214,
+              "ulNbOfPackets": 4,
+              "dlNbOfPackets": 210
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:25Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:34:20Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 133217,
-                            "ulVolume": 13965,
-                            "dlVolume": 119252,
-                            "totalNbOfPackets": 231,
-                            "ulNbOfPackets": 89,
-                            "dlNbOfPackets": 142
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "22344 bps",
-                            "dlThroughput": "190803 bps",
-                            "ulPacketThroughput": "17.80 pps",
-                            "dlPacketThroughput": "28.40 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:25Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:34:20Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 9166276,
-                            "ulVolume": 9117444,
-                            "dlVolume": 48832,
-                            "totalNbOfPackets": 1434,
-                            "ulNbOfPackets": 1271,
-                            "dlNbOfPackets": 163
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "14587910 bps",
-                            "dlThroughput": "78131 bps",
-                            "ulPacketThroughput": "254.20 pps",
-                            "dlPacketThroughput": "32.60 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "477 bps",
+              "dlThroughput": "74450 bps",
+              "ulPacketThroughput": "0.80 pps",
+              "dlPacketThroughput": "42.00 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:30Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:34:25Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 86661,
-                            "ulVolume": 16171,
-                            "dlVolume": 70490,
-                            "totalNbOfPackets": 202,
-                            "ulNbOfPackets": 101,
-                            "dlNbOfPackets": 101
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "25874 bps",
-                            "dlThroughput": "112784 bps",
-                            "ulPacketThroughput": "20.20 pps",
-                            "dlPacketThroughput": "20.20 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:48:37Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:48:32Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1727787,
+              "ulVolume": 8660,
+              "dlVolume": 1719127,
+              "totalNbOfPackets": 1730,
+              "ulNbOfPackets": 106,
+              "dlNbOfPackets": 1624
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:30Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:34:25Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 669455,
-                            "ulVolume": 23801,
-                            "dlVolume": 645654,
-                            "totalNbOfPackets": 736,
-                            "ulNbOfPackets": 259,
-                            "dlNbOfPackets": 477
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "38082 bps",
-                            "dlThroughput": "1033046 bps",
-                            "ulPacketThroughput": "51.80 pps",
-                            "dlPacketThroughput": "95.40 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:30Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:34:25Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 66784,
-                            "ulVolume": 136,
-                            "dlVolume": 66648,
-                            "totalNbOfPackets": 162,
-                            "ulNbOfPackets": 2,
-                            "dlNbOfPackets": 160
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "218 bps",
-                            "dlThroughput": "106637 bps",
-                            "ulPacketThroughput": "0.40 pps",
-                            "dlPacketThroughput": "32.00 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "13856 bps",
+              "dlThroughput": "2750603 bps",
+              "ulPacketThroughput": "21.20 pps",
+              "dlPacketThroughput": "324.80 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:35Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:34:30Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 71994,
-                            "ulVolume": 19444,
-                            "dlVolume": 52550,
-                            "totalNbOfPackets": 218,
-                            "ulNbOfPackets": 89,
-                            "dlNbOfPackets": 129
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "31110 bps",
-                            "dlThroughput": "84080 bps",
-                            "ulPacketThroughput": "17.80 pps",
-                            "dlPacketThroughput": "25.80 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:48:37Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:48:32Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1849560,
+              "ulVolume": 20220,
+              "dlVolume": 1829340,
+              "totalNbOfPackets": 1944,
+              "ulNbOfPackets": 204,
+              "dlNbOfPackets": 1740
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:35Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:34:30Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 792088,
-                            "ulVolume": 25202,
-                            "dlVolume": 766886,
-                            "totalNbOfPackets": 970,
-                            "ulNbOfPackets": 257,
-                            "dlNbOfPackets": 713
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "40323 bps",
-                            "dlThroughput": "1227018 bps",
-                            "ulPacketThroughput": "51.40 pps",
-                            "dlPacketThroughput": "142.60 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:35Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:34:30Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 8253284,
-                            "ulVolume": 8049668,
-                            "dlVolume": 203616,
-                            "totalNbOfPackets": 1551,
-                            "ulNbOfPackets": 1056,
-                            "dlNbOfPackets": 495
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "12879469 bps",
-                            "dlThroughput": "325786 bps",
-                            "ulPacketThroughput": "211.20 pps",
-                            "dlPacketThroughput": "99.00 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "32352 bps",
+              "dlThroughput": "2926944 bps",
+              "ulPacketThroughput": "40.80 pps",
+              "dlPacketThroughput": "348.00 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:40Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:34:35Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 95235,
-                            "ulVolume": 26043,
-                            "dlVolume": 69192,
-                            "totalNbOfPackets": 231,
-                            "ulNbOfPackets": 99,
-                            "dlNbOfPackets": 132
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "41669 bps",
-                            "dlThroughput": "110707 bps",
-                            "ulPacketThroughput": "19.80 pps",
-                            "dlPacketThroughput": "26.40 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:48:37Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:48:32Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 63330,
+              "ulVolume": 18710,
+              "dlVolume": 44620,
+              "totalNbOfPackets": 312,
+              "ulNbOfPackets": 92,
+              "dlNbOfPackets": 220
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:40Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:34:35Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 9977365,
-                            "ulVolume": 9662281,
-                            "dlVolume": 315084,
-                            "totalNbOfPackets": 1700,
-                            "ulNbOfPackets": 1159,
-                            "dlNbOfPackets": 541
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "15459650 bps",
-                            "dlThroughput": "504134 bps",
-                            "ulPacketThroughput": "231.80 pps",
-                            "dlPacketThroughput": "108.20 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:40Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:34:35Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 7358,
-                            "ulVolume": 136,
-                            "dlVolume": 7222,
-                            "totalNbOfPackets": 31,
-                            "ulNbOfPackets": 2,
-                            "dlNbOfPackets": 29
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "218 bps",
-                            "dlThroughput": "11555 bps",
-                            "ulPacketThroughput": "0.40 pps",
-                            "dlPacketThroughput": "5.80 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "29936 bps",
+              "dlThroughput": "71392 bps",
+              "ulPacketThroughput": "18.40 pps",
+              "dlPacketThroughput": "44.00 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:45Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:34:40Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 12485,
-                            "ulVolume": 5560,
-                            "dlVolume": 6925,
-                            "totalNbOfPackets": 49,
-                            "ulNbOfPackets": 22,
-                            "dlNbOfPackets": 27
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "8896 bps",
-                            "dlThroughput": "11080 bps",
-                            "ulPacketThroughput": "4.40 pps",
-                            "dlPacketThroughput": "5.40 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:48:42Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:48:37Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1722059,
+              "ulVolume": 8668,
+              "dlVolume": 1713391,
+              "totalNbOfPackets": 1736,
+              "ulNbOfPackets": 107,
+              "dlNbOfPackets": 1629
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:45Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:34:40Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 36318488,
-                            "ulVolume": 36317329,
-                            "dlVolume": 1159,
-                            "totalNbOfPackets": 4325,
-                            "ulNbOfPackets": 4310,
-                            "dlNbOfPackets": 15
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "58107726 bps",
-                            "dlThroughput": "1854 bps",
-                            "ulPacketThroughput": "862.00 pps",
-                            "dlPacketThroughput": "3.00 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:45Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:34:40Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 2397102,
-                            "ulVolume": 75675,
-                            "dlVolume": 2321427,
-                            "totalNbOfPackets": 2092,
-                            "ulNbOfPackets": 556,
-                            "dlNbOfPackets": 1536
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "121080 bps",
-                            "dlThroughput": "3714283 bps",
-                            "ulPacketThroughput": "111.20 pps",
-                            "dlPacketThroughput": "307.20 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "13869 bps",
+              "dlThroughput": "2741426 bps",
+              "ulPacketThroughput": "21.40 pps",
+              "dlPacketThroughput": "325.80 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:50Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:34:45Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 369155,
-                            "ulVolume": 96858,
-                            "dlVolume": 272297,
-                            "totalNbOfPackets": 918,
-                            "ulNbOfPackets": 440,
-                            "dlNbOfPackets": 478
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "154973 bps",
-                            "dlThroughput": "435675 bps",
-                            "ulPacketThroughput": "88.00 pps",
-                            "dlPacketThroughput": "95.60 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:48:42Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:48:37Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1860808,
+              "ulVolume": 21368,
+              "dlVolume": 1839440,
+              "totalNbOfPackets": 1952,
+              "ulNbOfPackets": 214,
+              "dlNbOfPackets": 1738
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:50Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:34:45Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 41408,
-                            "ulVolume": 14702,
-                            "dlVolume": 26706,
-                            "totalNbOfPackets": 122,
-                            "ulNbOfPackets": 59,
-                            "dlNbOfPackets": 63
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "23523 bps",
-                            "dlThroughput": "42730 bps",
-                            "ulPacketThroughput": "11.80 pps",
-                            "dlPacketThroughput": "12.60 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:50Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:34:45Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 15040460,
-                            "ulVolume": 60090,
-                            "dlVolume": 14980370,
-                            "totalNbOfPackets": 5680,
-                            "ulNbOfPackets": 790,
-                            "dlNbOfPackets": 4890
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "96144 bps",
-                            "dlThroughput": "23968592 bps",
-                            "ulPacketThroughput": "158.00 pps",
-                            "dlPacketThroughput": "978.00 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "34189 bps",
+              "dlThroughput": "2943104 bps",
+              "ulPacketThroughput": "42.80 pps",
+              "dlPacketThroughput": "347.60 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:55Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:34:50Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 535952,
-                            "ulVolume": 22816,
-                            "dlVolume": 513136,
-                            "totalNbOfPackets": 642,
-                            "ulNbOfPackets": 248,
-                            "dlNbOfPackets": 394
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "36506 bps",
-                            "dlThroughput": "821018 bps",
-                            "ulPacketThroughput": "49.60 pps",
-                            "dlPacketThroughput": "78.80 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:48:42Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:48:37Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 62075,
+              "ulVolume": 5548,
+              "dlVolume": 56527,
+              "totalNbOfPackets": 289,
+              "ulNbOfPackets": 34,
+              "dlNbOfPackets": 255
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:55Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:34:50Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 71072,
-                            "ulVolume": 20465,
-                            "dlVolume": 50607,
-                            "totalNbOfPackets": 268,
-                            "ulNbOfPackets": 103,
-                            "dlNbOfPackets": 165
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "32744 bps",
-                            "dlThroughput": "80971 bps",
-                            "ulPacketThroughput": "20.60 pps",
-                            "dlPacketThroughput": "33.00 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:34:55Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:34:50Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 48234,
-                            "ulVolume": 15209,
-                            "dlVolume": 33025,
-                            "totalNbOfPackets": 153,
-                            "ulNbOfPackets": 79,
-                            "dlNbOfPackets": 74
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "24334 bps",
-                            "dlThroughput": "52840 bps",
-                            "ulPacketThroughput": "15.80 pps",
-                            "dlPacketThroughput": "14.80 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "8877 bps",
+              "dlThroughput": "90443 bps",
+              "ulPacketThroughput": "6.80 pps",
+              "dlPacketThroughput": "51.00 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:00Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:34:55Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 3993809,
-                            "ulVolume": 197470,
-                            "dlVolume": 3796339,
-                            "totalNbOfPackets": 4472,
-                            "ulNbOfPackets": 1774,
-                            "dlNbOfPackets": 2698
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "315952 bps",
-                            "dlThroughput": "6074142 bps",
-                            "ulPacketThroughput": "354.80 pps",
-                            "dlPacketThroughput": "539.60 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:48:47Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:48:42Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1742206,
+              "ulVolume": 9056,
+              "dlVolume": 1733150,
+              "totalNbOfPackets": 1756,
+              "ulNbOfPackets": 109,
+              "dlNbOfPackets": 1647
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:00Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:34:55Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 19323,
-                            "ulVolume": 4665,
-                            "dlVolume": 14658,
-                            "totalNbOfPackets": 66,
-                            "ulNbOfPackets": 30,
-                            "dlNbOfPackets": 36
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "7464 bps",
-                            "dlThroughput": "23453 bps",
-                            "ulPacketThroughput": "6.00 pps",
-                            "dlPacketThroughput": "7.20 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:00Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:34:55Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 13377867,
-                            "ulVolume": 123463,
-                            "dlVolume": 13254404,
-                            "totalNbOfPackets": 8063,
-                            "ulNbOfPackets": 1376,
-                            "dlNbOfPackets": 6687
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "197541 bps",
-                            "dlThroughput": "21207046 bps",
-                            "ulPacketThroughput": "275.20 pps",
-                            "dlPacketThroughput": "1337.40 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "14490 bps",
+              "dlThroughput": "2773040 bps",
+              "ulPacketThroughput": "21.80 pps",
+              "dlPacketThroughput": "329.40 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:05Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:35:00Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 6263004,
-                            "ulVolume": 258145,
-                            "dlVolume": 6004859,
-                            "totalNbOfPackets": 6779,
-                            "ulNbOfPackets": 2737,
-                            "dlNbOfPackets": 4042
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "413032 bps",
-                            "dlThroughput": "9607774 bps",
-                            "ulPacketThroughput": "547.40 pps",
-                            "dlPacketThroughput": "808.40 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:48:47Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:48:42Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1832809,
+              "ulVolume": 18136,
+              "dlVolume": 1814673,
+              "totalNbOfPackets": 1924,
+              "ulNbOfPackets": 186,
+              "dlNbOfPackets": 1738
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:05Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:35:00Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 538009,
-                            "ulVolume": 62297,
-                            "dlVolume": 475712,
-                            "totalNbOfPackets": 726,
-                            "ulNbOfPackets": 277,
-                            "dlNbOfPackets": 449
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "99675 bps",
-                            "dlThroughput": "761139 bps",
-                            "ulPacketThroughput": "55.40 pps",
-                            "dlPacketThroughput": "89.80 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:05Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:35:00Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 248420,
-                            "ulVolume": 223338,
-                            "dlVolume": 25082,
-                            "totalNbOfPackets": 382,
-                            "ulNbOfPackets": 248,
-                            "dlNbOfPackets": 134
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "357341 bps",
-                            "dlThroughput": "40131 bps",
-                            "ulPacketThroughput": "49.60 pps",
-                            "dlPacketThroughput": "26.80 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "29018 bps",
+              "dlThroughput": "2903477 bps",
+              "ulPacketThroughput": "37.20 pps",
+              "dlPacketThroughput": "347.60 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:10Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:35:05Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 3575567,
-                            "ulVolume": 131688,
-                            "dlVolume": 3443879,
-                            "totalNbOfPackets": 3634,
-                            "ulNbOfPackets": 1292,
-                            "dlNbOfPackets": 2342
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "210701 bps",
-                            "dlThroughput": "5510206 bps",
-                            "ulPacketThroughput": "258.40 pps",
-                            "dlPacketThroughput": "468.40 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:48:47Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:48:42Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 68361,
+              "ulVolume": 25438,
+              "dlVolume": 42923,
+              "totalNbOfPackets": 333,
+              "ulNbOfPackets": 122,
+              "dlNbOfPackets": 211
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:10Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:35:05Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 22586,
-                            "ulVolume": 19796,
-                            "dlVolume": 2790,
-                            "totalNbOfPackets": 46,
-                            "ulNbOfPackets": 23,
-                            "dlNbOfPackets": 23
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "31674 bps",
-                            "dlThroughput": "4464 bps",
-                            "ulPacketThroughput": "4.60 pps",
-                            "dlPacketThroughput": "4.60 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:10Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:35:05Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 118427,
-                            "ulVolume": 37596,
-                            "dlVolume": 80831,
-                            "totalNbOfPackets": 386,
-                            "ulNbOfPackets": 204,
-                            "dlNbOfPackets": 182
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "60154 bps",
-                            "dlThroughput": "129330 bps",
-                            "ulPacketThroughput": "40.80 pps",
-                            "dlPacketThroughput": "36.40 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "40701 bps",
+              "dlThroughput": "68677 bps",
+              "ulPacketThroughput": "24.40 pps",
+              "dlPacketThroughput": "42.20 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:15Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:35:10Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 200007,
-                            "ulVolume": 48688,
-                            "dlVolume": 151319,
-                            "totalNbOfPackets": 468,
-                            "ulNbOfPackets": 215,
-                            "dlNbOfPackets": 253
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "77901 bps",
-                            "dlThroughput": "242110 bps",
-                            "ulPacketThroughput": "43.00 pps",
-                            "dlPacketThroughput": "50.60 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:48:52Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:48:47Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1730640,
+              "ulVolume": 9224,
+              "dlVolume": 1721416,
+              "totalNbOfPackets": 1753,
+              "ulNbOfPackets": 111,
+              "dlNbOfPackets": 1642
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:15Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:35:10Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 21153,
-                            "ulVolume": 12895,
-                            "dlVolume": 8258,
-                            "totalNbOfPackets": 54,
-                            "ulNbOfPackets": 28,
-                            "dlNbOfPackets": 26
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "20632 bps",
-                            "dlThroughput": "13213 bps",
-                            "ulPacketThroughput": "5.60 pps",
-                            "dlPacketThroughput": "5.20 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:15Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:35:10Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 3498316,
-                            "ulVolume": 88599,
-                            "dlVolume": 3409717,
-                            "totalNbOfPackets": 4030,
-                            "ulNbOfPackets": 1274,
-                            "dlNbOfPackets": 2756
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "141758 bps",
-                            "dlThroughput": "5455547 bps",
-                            "ulPacketThroughput": "254.80 pps",
-                            "dlPacketThroughput": "551.20 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "14758 bps",
+              "dlThroughput": "2754266 bps",
+              "ulPacketThroughput": "22.20 pps",
+              "dlPacketThroughput": "328.40 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:20Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:35:15Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 4886,
-                            "ulVolume": 2714,
-                            "dlVolume": 2172,
-                            "totalNbOfPackets": 27,
-                            "ulNbOfPackets": 10,
-                            "dlNbOfPackets": 17
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "4342 bps",
-                            "dlThroughput": "3475 bps",
-                            "ulPacketThroughput": "2.00 pps",
-                            "dlPacketThroughput": "3.40 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:48:52Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:48:47Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1855996,
+              "ulVolume": 21012,
+              "dlVolume": 1834984,
+              "totalNbOfPackets": 1909,
+              "ulNbOfPackets": 211,
+              "dlNbOfPackets": 1698
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:20Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:35:15Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 29496,
-                            "ulVolume": 9157,
-                            "dlVolume": 20339,
-                            "totalNbOfPackets": 110,
-                            "ulNbOfPackets": 53,
-                            "dlNbOfPackets": 57
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "14651 bps",
-                            "dlThroughput": "32542 bps",
-                            "ulPacketThroughput": "10.60 pps",
-                            "dlPacketThroughput": "11.40 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:20Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:35:15Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 23750,
-                            "ulVolume": 7526,
-                            "dlVolume": 16224,
-                            "totalNbOfPackets": 74,
-                            "ulNbOfPackets": 37,
-                            "dlNbOfPackets": 37
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "12042 bps",
-                            "dlThroughput": "25958 bps",
-                            "ulPacketThroughput": "7.40 pps",
-                            "dlPacketThroughput": "7.40 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "33619 bps",
+              "dlThroughput": "2935974 bps",
+              "ulPacketThroughput": "42.20 pps",
+              "dlPacketThroughput": "339.60 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:25Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:35:20Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 244353,
-                            "ulVolume": 66968,
-                            "dlVolume": 177385,
-                            "totalNbOfPackets": 574,
-                            "ulNbOfPackets": 263,
-                            "dlNbOfPackets": 311
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "107149 bps",
-                            "dlThroughput": "283816 bps",
-                            "ulPacketThroughput": "52.60 pps",
-                            "dlPacketThroughput": "62.20 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:48:52Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:48:47Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 69349,
+              "ulVolume": 40107,
+              "dlVolume": 29242,
+              "totalNbOfPackets": 353,
+              "ulNbOfPackets": 206,
+              "dlNbOfPackets": 147
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:25Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:35:20Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 27929,
-                            "ulVolume": 10708,
-                            "dlVolume": 17221,
-                            "totalNbOfPackets": 120,
-                            "ulNbOfPackets": 62,
-                            "dlNbOfPackets": 58
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "17133 bps",
-                            "dlThroughput": "27554 bps",
-                            "ulPacketThroughput": "12.40 pps",
-                            "dlPacketThroughput": "11.60 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:25Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:35:20Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 2178958,
-                            "ulVolume": 72583,
-                            "dlVolume": 2106375,
-                            "totalNbOfPackets": 2483,
-                            "ulNbOfPackets": 606,
-                            "dlNbOfPackets": 1877
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "116133 bps",
-                            "dlThroughput": "3370200 bps",
-                            "ulPacketThroughput": "121.20 pps",
-                            "dlPacketThroughput": "375.40 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "64171 bps",
+              "dlThroughput": "46787 bps",
+              "ulPacketThroughput": "41.20 pps",
+              "dlPacketThroughput": "29.40 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:30Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:35:25Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 4789927,
-                            "ulVolume": 105710,
-                            "dlVolume": 4684217,
-                            "totalNbOfPackets": 4326,
-                            "ulNbOfPackets": 1177,
-                            "dlNbOfPackets": 3149
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "169136 bps",
-                            "dlThroughput": "7494747 bps",
-                            "ulPacketThroughput": "235.40 pps",
-                            "dlPacketThroughput": "629.80 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:48:57Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:48:52Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1743757,
+              "ulVolume": 8868,
+              "dlVolume": 1734889,
+              "totalNbOfPackets": 1739,
+              "ulNbOfPackets": 106,
+              "dlNbOfPackets": 1633
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:30Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:35:25Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 20538,
-                            "ulVolume": 6666,
-                            "dlVolume": 13872,
-                            "totalNbOfPackets": 61,
-                            "ulNbOfPackets": 25,
-                            "dlNbOfPackets": 36
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "10666 bps",
-                            "dlThroughput": "22195 bps",
-                            "ulPacketThroughput": "5.00 pps",
-                            "dlPacketThroughput": "7.20 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:30Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:35:25Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 390594,
-                            "ulVolume": 55831,
-                            "dlVolume": 334763,
-                            "totalNbOfPackets": 621,
-                            "ulNbOfPackets": 290,
-                            "dlNbOfPackets": 331
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "89330 bps",
-                            "dlThroughput": "535621 bps",
-                            "ulPacketThroughput": "58.00 pps",
-                            "dlPacketThroughput": "66.20 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "14189 bps",
+              "dlThroughput": "2775822 bps",
+              "ulPacketThroughput": "21.20 pps",
+              "dlPacketThroughput": "326.60 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:35Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:35:30Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 263284,
-                            "ulVolume": 65211,
-                            "dlVolume": 198073,
-                            "totalNbOfPackets": 619,
-                            "ulNbOfPackets": 291,
-                            "dlNbOfPackets": 328
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "104338 bps",
-                            "dlThroughput": "316917 bps",
-                            "ulPacketThroughput": "58.20 pps",
-                            "dlPacketThroughput": "65.60 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:48:57Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:48:52Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1849603,
+              "ulVolume": 21764,
+              "dlVolume": 1827839,
+              "totalNbOfPackets": 1860,
+              "ulNbOfPackets": 218,
+              "dlNbOfPackets": 1642
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:35Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:35:30Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 20714,
-                            "ulVolume": 7786,
-                            "dlVolume": 12928,
-                            "totalNbOfPackets": 82,
-                            "ulNbOfPackets": 36,
-                            "dlNbOfPackets": 46
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "12458 bps",
-                            "dlThroughput": "20685 bps",
-                            "ulPacketThroughput": "7.20 pps",
-                            "dlPacketThroughput": "9.20 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:35Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:35:30Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 129716,
-                            "ulVolume": 7611,
-                            "dlVolume": 122105,
-                            "totalNbOfPackets": 188,
-                            "ulNbOfPackets": 85,
-                            "dlNbOfPackets": 103
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "12178 bps",
-                            "dlThroughput": "195368 bps",
-                            "ulPacketThroughput": "17.00 pps",
-                            "dlPacketThroughput": "20.60 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "34822 bps",
+              "dlThroughput": "2924542 bps",
+              "ulPacketThroughput": "43.60 pps",
+              "dlPacketThroughput": "328.40 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:40Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:35:35Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 1159376,
-                            "ulVolume": 44873,
-                            "dlVolume": 1114503,
-                            "totalNbOfPackets": 1313,
-                            "ulNbOfPackets": 459,
-                            "dlNbOfPackets": 854
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "71797 bps",
-                            "dlThroughput": "1783205 bps",
-                            "ulPacketThroughput": "91.80 pps",
-                            "dlPacketThroughput": "170.80 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:48:57Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:48:52Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 57439,
+              "ulVolume": 272,
+              "dlVolume": 57167,
+              "totalNbOfPackets": 261,
+              "ulNbOfPackets": 4,
+              "dlNbOfPackets": 257
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:40Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:35:35Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 20928,
-                            "ulVolume": 6381,
-                            "dlVolume": 14547,
-                            "totalNbOfPackets": 74,
-                            "ulNbOfPackets": 34,
-                            "dlNbOfPackets": 40
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "10210 bps",
-                            "dlThroughput": "23275 bps",
-                            "ulPacketThroughput": "6.80 pps",
-                            "dlPacketThroughput": "8.00 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:40Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:35:35Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 144370,
-                            "ulVolume": 5924,
-                            "dlVolume": 138446,
-                            "totalNbOfPackets": 198,
-                            "ulNbOfPackets": 97,
-                            "dlNbOfPackets": 101
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "9478 bps",
-                            "dlThroughput": "221514 bps",
-                            "ulPacketThroughput": "19.40 pps",
-                            "dlPacketThroughput": "20.20 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "435 bps",
+              "dlThroughput": "91467 bps",
+              "ulPacketThroughput": "0.80 pps",
+              "dlPacketThroughput": "51.40 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:45Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:35:40Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 37674,
-                            "ulVolume": 8385,
-                            "dlVolume": 29289,
-                            "totalNbOfPackets": 81,
-                            "ulNbOfPackets": 39,
-                            "dlNbOfPackets": 42
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "13416 bps",
-                            "dlThroughput": "46862 bps",
-                            "ulPacketThroughput": "7.80 pps",
-                            "dlPacketThroughput": "8.40 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:02Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:48:57Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1585017,
+              "ulVolume": 8448,
+              "dlVolume": 1576569,
+              "totalNbOfPackets": 1605,
+              "ulNbOfPackets": 104,
+              "dlNbOfPackets": 1501
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:45Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:35:40Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 22351,
-                            "ulVolume": 7532,
-                            "dlVolume": 14819,
-                            "totalNbOfPackets": 76,
-                            "ulNbOfPackets": 37,
-                            "dlNbOfPackets": 39
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "12051 bps",
-                            "dlThroughput": "23710 bps",
-                            "ulPacketThroughput": "7.40 pps",
-                            "dlPacketThroughput": "7.80 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:45Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:35:40Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 520693,
-                            "ulVolume": 31435,
-                            "dlVolume": 489258,
-                            "totalNbOfPackets": 692,
-                            "ulNbOfPackets": 284,
-                            "dlNbOfPackets": 408
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "50296 bps",
-                            "dlThroughput": "782813 bps",
-                            "ulPacketThroughput": "56.80 pps",
-                            "dlPacketThroughput": "81.60 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "13517 bps",
+              "dlThroughput": "2522510 bps",
+              "ulPacketThroughput": "20.80 pps",
+              "dlPacketThroughput": "300.20 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:50Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:35:45Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 13137,
-                            "ulVolume": 5836,
-                            "dlVolume": 7301,
-                            "totalNbOfPackets": 35,
-                            "ulNbOfPackets": 18,
-                            "dlNbOfPackets": 17
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "9338 bps",
-                            "dlThroughput": "11682 bps",
-                            "ulPacketThroughput": "3.60 pps",
-                            "dlPacketThroughput": "3.40 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:02Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:48:57Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1872260,
+              "ulVolume": 21152,
+              "dlVolume": 1851108,
+              "totalNbOfPackets": 1997,
+              "ulNbOfPackets": 212,
+              "dlNbOfPackets": 1785
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:50Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:35:45Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 26588,
-                            "ulVolume": 8233,
-                            "dlVolume": 18355,
-                            "totalNbOfPackets": 100,
-                            "ulNbOfPackets": 47,
-                            "dlNbOfPackets": 53
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "13173 bps",
-                            "dlThroughput": "29368 bps",
-                            "ulPacketThroughput": "9.40 pps",
-                            "dlPacketThroughput": "10.60 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:50Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:35:45Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 195190,
-                            "ulVolume": 18760,
-                            "dlVolume": 176430,
-                            "totalNbOfPackets": 352,
-                            "ulNbOfPackets": 169,
-                            "dlNbOfPackets": 183
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "30016 bps",
-                            "dlThroughput": "282288 bps",
-                            "ulPacketThroughput": "33.80 pps",
-                            "dlPacketThroughput": "36.60 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "33843 bps",
+              "dlThroughput": "2961773 bps",
+              "ulPacketThroughput": "42.40 pps",
+              "dlPacketThroughput": "357.00 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:55Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:35:50Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 160360,
-                            "ulVolume": 13930,
-                            "dlVolume": 146430,
-                            "totalNbOfPackets": 229,
-                            "ulNbOfPackets": 87,
-                            "dlNbOfPackets": 142
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "22288 bps",
-                            "dlThroughput": "234288 bps",
-                            "ulPacketThroughput": "17.40 pps",
-                            "dlPacketThroughput": "28.40 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:02Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:48:57Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 71126,
+              "ulVolume": 29269,
+              "dlVolume": 41857,
+              "totalNbOfPackets": 351,
+              "ulNbOfPackets": 144,
+              "dlNbOfPackets": 207
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:55Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:35:50Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 20565,
-                            "ulVolume": 6133,
-                            "dlVolume": 14432,
-                            "totalNbOfPackets": 80,
-                            "ulNbOfPackets": 40,
-                            "dlNbOfPackets": 40
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "9813 bps",
-                            "dlThroughput": "23091 bps",
-                            "ulPacketThroughput": "8.00 pps",
-                            "dlPacketThroughput": "8.00 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:35:55Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:35:50Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 210853,
-                            "ulVolume": 54923,
-                            "dlVolume": 155930,
-                            "totalNbOfPackets": 304,
-                            "ulNbOfPackets": 164,
-                            "dlNbOfPackets": 140
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "87877 bps",
-                            "dlThroughput": "249488 bps",
-                            "ulPacketThroughput": "32.80 pps",
-                            "dlPacketThroughput": "28.00 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "46830 bps",
+              "dlThroughput": "66971 bps",
+              "ulPacketThroughput": "28.80 pps",
+              "dlPacketThroughput": "41.40 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:00Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:35:55Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 2817,
-                            "ulVolume": 2399,
-                            "dlVolume": 418,
-                            "totalNbOfPackets": 10,
-                            "ulNbOfPackets": 5,
-                            "dlNbOfPackets": 5
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "3838 bps",
-                            "dlThroughput": "669 bps",
-                            "ulPacketThroughput": "1.00 pps",
-                            "dlPacketThroughput": "1.00 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:07Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:49:02Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1705126,
+              "ulVolume": 8848,
+              "dlVolume": 1696278,
+              "totalNbOfPackets": 1723,
+              "ulNbOfPackets": 108,
+              "dlNbOfPackets": 1615
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:00Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:35:55Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 45154,
-                            "ulVolume": 12541,
-                            "dlVolume": 32613,
-                            "totalNbOfPackets": 144,
-                            "ulNbOfPackets": 63,
-                            "dlNbOfPackets": 81
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "20066 bps",
-                            "dlThroughput": "52181 bps",
-                            "ulPacketThroughput": "12.60 pps",
-                            "dlPacketThroughput": "16.20 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:00Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:35:55Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 324349,
-                            "ulVolume": 25262,
-                            "dlVolume": 299087,
-                            "totalNbOfPackets": 455,
-                            "ulNbOfPackets": 208,
-                            "dlNbOfPackets": 247
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "40419 bps",
-                            "dlThroughput": "478539 bps",
-                            "ulPacketThroughput": "41.60 pps",
-                            "dlPacketThroughput": "49.40 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "14157 bps",
+              "dlThroughput": "2714045 bps",
+              "ulPacketThroughput": "21.60 pps",
+              "dlPacketThroughput": "323.00 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:05Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:36:00Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 7439,
-                            "ulVolume": 4183,
-                            "dlVolume": 3256,
-                            "totalNbOfPackets": 28,
-                            "ulNbOfPackets": 13,
-                            "dlNbOfPackets": 15
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "6693 bps",
-                            "dlThroughput": "5210 bps",
-                            "ulPacketThroughput": "2.60 pps",
-                            "dlPacketThroughput": "3.00 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:07Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:49:02Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1908119,
+              "ulVolume": 22916,
+              "dlVolume": 1885203,
+              "totalNbOfPackets": 2052,
+              "ulNbOfPackets": 227,
+              "dlNbOfPackets": 1825
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:05Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:36:00Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 3657,
-                            "ulVolume": 2273,
-                            "dlVolume": 1384,
-                            "totalNbOfPackets": 16,
-                            "ulNbOfPackets": 7,
-                            "dlNbOfPackets": 9
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "3637 bps",
-                            "dlThroughput": "2214 bps",
-                            "ulPacketThroughput": "1.40 pps",
-                            "dlPacketThroughput": "1.80 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:05Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:36:00Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 3054106,
-                            "ulVolume": 60470,
-                            "dlVolume": 2993636,
-                            "totalNbOfPackets": 3110,
-                            "ulNbOfPackets": 730,
-                            "dlNbOfPackets": 2380
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "96752 bps",
-                            "dlThroughput": "4789818 bps",
-                            "ulPacketThroughput": "146.00 pps",
-                            "dlPacketThroughput": "476.00 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "36666 bps",
+              "dlThroughput": "3016325 bps",
+              "ulPacketThroughput": "45.40 pps",
+              "dlPacketThroughput": "365.00 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:10Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:36:05Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 20177,
-                            "ulVolume": 6651,
-                            "dlVolume": 13526,
-                            "totalNbOfPackets": 73,
-                            "ulNbOfPackets": 31,
-                            "dlNbOfPackets": 42
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "10642 bps",
-                            "dlThroughput": "21642 bps",
-                            "ulPacketThroughput": "6.20 pps",
-                            "dlPacketThroughput": "8.40 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:07Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:49:02Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 61204,
+              "ulVolume": 13600,
+              "dlVolume": 47604,
+              "totalNbOfPackets": 285,
+              "ulNbOfPackets": 62,
+              "dlNbOfPackets": 223
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:10Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:36:05Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 25401,
-                            "ulVolume": 8617,
-                            "dlVolume": 16784,
-                            "totalNbOfPackets": 104,
-                            "ulNbOfPackets": 49,
-                            "dlNbOfPackets": 55
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "13787 bps",
-                            "dlThroughput": "26854 bps",
-                            "ulPacketThroughput": "9.80 pps",
-                            "dlPacketThroughput": "11.00 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:10Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:36:05Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 9948423,
-                            "ulVolume": 91204,
-                            "dlVolume": 9857219,
-                            "totalNbOfPackets": 8631,
-                            "ulNbOfPackets": 956,
-                            "dlNbOfPackets": 7675
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "145926 bps",
-                            "dlThroughput": "15771550 bps",
-                            "ulPacketThroughput": "191.20 pps",
-                            "dlPacketThroughput": "1535.00 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "21760 bps",
+              "dlThroughput": "76166 bps",
+              "ulPacketThroughput": "12.40 pps",
+              "dlPacketThroughput": "44.60 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:15Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:36:10Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 6136,
-                            "ulVolume": 4799,
-                            "dlVolume": 1337,
-                            "totalNbOfPackets": 32,
-                            "ulNbOfPackets": 15,
-                            "dlNbOfPackets": 17
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "7678 bps",
-                            "dlThroughput": "2139 bps",
-                            "ulPacketThroughput": "3.00 pps",
-                            "dlPacketThroughput": "3.40 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:12Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:49:07Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1513646,
+              "ulVolume": 8880,
+              "dlVolume": 1504766,
+              "totalNbOfPackets": 1591,
+              "ulNbOfPackets": 109,
+              "dlNbOfPackets": 1482
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:15Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:36:10Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 100491,
-                            "ulVolume": 34564,
-                            "dlVolume": 65927,
-                            "totalNbOfPackets": 247,
-                            "ulNbOfPackets": 118,
-                            "dlNbOfPackets": 129
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "55302 bps",
-                            "dlThroughput": "105483 bps",
-                            "ulPacketThroughput": "23.60 pps",
-                            "dlPacketThroughput": "25.80 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:15Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:36:10Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 563254,
-                            "ulVolume": 8067,
-                            "dlVolume": 555187,
-                            "totalNbOfPackets": 541,
-                            "ulNbOfPackets": 111,
-                            "dlNbOfPackets": 430
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "12907 bps",
-                            "dlThroughput": "888299 bps",
-                            "ulPacketThroughput": "22.20 pps",
-                            "dlPacketThroughput": "86.00 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "14208 bps",
+              "dlThroughput": "2407626 bps",
+              "ulPacketThroughput": "21.80 pps",
+              "dlPacketThroughput": "296.40 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:20Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:36:15Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 22022,
-                            "ulVolume": 14782,
-                            "dlVolume": 7240,
-                            "totalNbOfPackets": 53,
-                            "ulNbOfPackets": 29,
-                            "dlNbOfPackets": 24
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "23651 bps",
-                            "dlThroughput": "11584 bps",
-                            "ulPacketThroughput": "5.80 pps",
-                            "dlPacketThroughput": "4.80 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:12Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:49:07Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1872401,
+              "ulVolume": 22216,
+              "dlVolume": 1850185,
+              "totalNbOfPackets": 1994,
+              "ulNbOfPackets": 221,
+              "dlNbOfPackets": 1773
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:20Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:36:15Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 5032,
-                            "ulVolume": 2773,
-                            "dlVolume": 2259,
-                            "totalNbOfPackets": 28,
-                            "ulNbOfPackets": 13,
-                            "dlNbOfPackets": 15
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "4437 bps",
-                            "dlThroughput": "3614 bps",
-                            "ulPacketThroughput": "2.60 pps",
-                            "dlPacketThroughput": "3.00 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:20Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:36:15Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 158878,
-                            "ulVolume": 5646,
-                            "dlVolume": 153232,
-                            "totalNbOfPackets": 210,
-                            "ulNbOfPackets": 104,
-                            "dlNbOfPackets": 106
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "9034 bps",
-                            "dlThroughput": "245171 bps",
-                            "ulPacketThroughput": "20.80 pps",
-                            "dlPacketThroughput": "21.20 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "35546 bps",
+              "dlThroughput": "2960296 bps",
+              "ulPacketThroughput": "44.20 pps",
+              "dlPacketThroughput": "354.60 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:25Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:36:20Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 585670,
-                            "ulVolume": 50482,
-                            "dlVolume": 535188,
-                            "totalNbOfPackets": 833,
-                            "ulNbOfPackets": 324,
-                            "dlNbOfPackets": 509
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "80771 bps",
-                            "dlThroughput": "856301 bps",
-                            "ulPacketThroughput": "64.80 pps",
-                            "dlPacketThroughput": "101.80 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:12Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:49:07Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 49922,
+              "ulVolume": 32432,
+              "dlVolume": 17490,
+              "totalNbOfPackets": 244,
+              "ulNbOfPackets": 162,
+              "dlNbOfPackets": 82
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:25Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:36:20Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 51169,
-                            "ulVolume": 16794,
-                            "dlVolume": 34375,
-                            "totalNbOfPackets": 185,
-                            "ulNbOfPackets": 87,
-                            "dlNbOfPackets": 98
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "26870 bps",
-                            "dlThroughput": "55000 bps",
-                            "ulPacketThroughput": "17.40 pps",
-                            "dlPacketThroughput": "19.60 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:25Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:36:20Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 266608,
-                            "ulVolume": 8516,
-                            "dlVolume": 258092,
-                            "totalNbOfPackets": 317,
-                            "ulNbOfPackets": 135,
-                            "dlNbOfPackets": 182
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "13626 bps",
-                            "dlThroughput": "412947 bps",
-                            "ulPacketThroughput": "27.00 pps",
-                            "dlPacketThroughput": "36.40 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "51891 bps",
+              "dlThroughput": "27984 bps",
+              "ulPacketThroughput": "32.40 pps",
+              "dlPacketThroughput": "16.40 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:30Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:36:25Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 1122644,
-                            "ulVolume": 31807,
-                            "dlVolume": 1090837,
-                            "totalNbOfPackets": 1212,
-                            "ulNbOfPackets": 410,
-                            "dlNbOfPackets": 802
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "50891 bps",
-                            "dlThroughput": "1745339 bps",
-                            "ulPacketThroughput": "82.00 pps",
-                            "dlPacketThroughput": "160.40 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:17Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:49:12Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1734600,
+              "ulVolume": 9072,
+              "dlVolume": 1725528,
+              "totalNbOfPackets": 1752,
+              "ulNbOfPackets": 110,
+              "dlNbOfPackets": 1642
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:30Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:36:25Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 6483,
-                            "ulVolume": 2534,
-                            "dlVolume": 3949,
-                            "totalNbOfPackets": 25,
-                            "ulNbOfPackets": 10,
-                            "dlNbOfPackets": 15
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "4054 bps",
-                            "dlThroughput": "6318 bps",
-                            "ulPacketThroughput": "2.00 pps",
-                            "dlPacketThroughput": "3.00 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:30Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:36:25Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 557385,
-                            "ulVolume": 73378,
-                            "dlVolume": 484007,
-                            "totalNbOfPackets": 852,
-                            "ulNbOfPackets": 381,
-                            "dlNbOfPackets": 471
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "117405 bps",
-                            "dlThroughput": "774411 bps",
-                            "ulPacketThroughput": "76.20 pps",
-                            "dlPacketThroughput": "94.20 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "14515 bps",
+              "dlThroughput": "2760845 bps",
+              "ulPacketThroughput": "22.00 pps",
+              "dlPacketThroughput": "328.40 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:35Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:36:30Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 29332,
-                            "ulVolume": 4357,
-                            "dlVolume": 24975,
-                            "totalNbOfPackets": 62,
-                            "ulNbOfPackets": 26,
-                            "dlNbOfPackets": 36
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "6971 bps",
-                            "dlThroughput": "39960 bps",
-                            "ulPacketThroughput": "5.20 pps",
-                            "dlPacketThroughput": "7.20 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:17Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:49:12Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1833621,
+              "ulVolume": 19492,
+              "dlVolume": 1814129,
+              "totalNbOfPackets": 1857,
+              "ulNbOfPackets": 198,
+              "dlNbOfPackets": 1659
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:35Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:36:30Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 23574,
-                            "ulVolume": 6733,
-                            "dlVolume": 16841,
-                            "totalNbOfPackets": 85,
-                            "ulNbOfPackets": 40,
-                            "dlNbOfPackets": 45
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "10773 bps",
-                            "dlThroughput": "26946 bps",
-                            "ulPacketThroughput": "8.00 pps",
-                            "dlPacketThroughput": "9.00 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:35Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:36:30Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 1981752,
-                            "ulVolume": 142017,
-                            "dlVolume": 1839735,
-                            "totalNbOfPackets": 2402,
-                            "ulNbOfPackets": 848,
-                            "dlNbOfPackets": 1554
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "227227 bps",
-                            "dlThroughput": "2943576 bps",
-                            "ulPacketThroughput": "169.60 pps",
-                            "dlPacketThroughput": "310.80 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "31187 bps",
+              "dlThroughput": "2902606 bps",
+              "ulPacketThroughput": "39.60 pps",
+              "dlPacketThroughput": "331.80 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:40Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:36:35Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 40833,
-                            "ulVolume": 10151,
-                            "dlVolume": 30682,
-                            "totalNbOfPackets": 84,
-                            "ulNbOfPackets": 38,
-                            "dlNbOfPackets": 46
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "16242 bps",
-                            "dlThroughput": "49091 bps",
-                            "ulPacketThroughput": "7.60 pps",
-                            "dlPacketThroughput": "9.20 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:17Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:49:12Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 34569,
+              "ulVolume": 2697,
+              "dlVolume": 31872,
+              "totalNbOfPackets": 167,
+              "ulNbOfPackets": 14,
+              "dlNbOfPackets": 153
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:40Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:36:35Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 165563,
-                            "ulVolume": 18538,
-                            "dlVolume": 147025,
-                            "totalNbOfPackets": 305,
-                            "ulNbOfPackets": 127,
-                            "dlNbOfPackets": 178
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "29661 bps",
-                            "dlThroughput": "235240 bps",
-                            "ulPacketThroughput": "25.40 pps",
-                            "dlPacketThroughput": "35.60 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:40Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:36:35Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 709293,
-                            "ulVolume": 199071,
-                            "dlVolume": 510222,
-                            "totalNbOfPackets": 1028,
-                            "ulNbOfPackets": 533,
-                            "dlNbOfPackets": 495
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "318514 bps",
-                            "dlThroughput": "816355 bps",
-                            "ulPacketThroughput": "106.60 pps",
-                            "dlPacketThroughput": "99.00 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "4315 bps",
+              "dlThroughput": "50995 bps",
+              "ulPacketThroughput": "2.80 pps",
+              "dlPacketThroughput": "30.60 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:45Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:36:40Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 136455,
-                            "ulVolume": 11508,
-                            "dlVolume": 124947,
-                            "totalNbOfPackets": 209,
-                            "ulNbOfPackets": 78,
-                            "dlNbOfPackets": 131
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "18413 bps",
-                            "dlThroughput": "199915 bps",
-                            "ulPacketThroughput": "15.60 pps",
-                            "dlPacketThroughput": "26.20 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:22Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:49:17Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1718574,
+              "ulVolume": 9092,
+              "dlVolume": 1709482,
+              "totalNbOfPackets": 1688,
+              "ulNbOfPackets": 110,
+              "dlNbOfPackets": 1578
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:45Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:36:40Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 11382,
-                            "ulVolume": 5808,
-                            "dlVolume": 5574,
-                            "totalNbOfPackets": 59,
-                            "ulNbOfPackets": 24,
-                            "dlNbOfPackets": 35
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "9293 bps",
-                            "dlThroughput": "8918 bps",
-                            "ulPacketThroughput": "4.80 pps",
-                            "dlPacketThroughput": "7.00 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:45Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:36:40Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 112991,
-                            "ulVolume": 17993,
-                            "dlVolume": 94998,
-                            "totalNbOfPackets": 236,
-                            "ulNbOfPackets": 118,
-                            "dlNbOfPackets": 118
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "28789 bps",
-                            "dlThroughput": "151997 bps",
-                            "ulPacketThroughput": "23.60 pps",
-                            "dlPacketThroughput": "23.60 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "14547 bps",
+              "dlThroughput": "2735171 bps",
+              "ulPacketThroughput": "22.00 pps",
+              "dlPacketThroughput": "315.60 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:50Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:36:45Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 25081,
-                            "ulVolume": 10656,
-                            "dlVolume": 14425,
-                            "totalNbOfPackets": 63,
-                            "ulNbOfPackets": 33,
-                            "dlNbOfPackets": 30
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "17050 bps",
-                            "dlThroughput": "23080 bps",
-                            "ulPacketThroughput": "6.60 pps",
-                            "dlPacketThroughput": "6.00 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:22Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:49:17Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1879013,
+              "ulVolume": 20636,
+              "dlVolume": 1858377,
+              "totalNbOfPackets": 1992,
+              "ulNbOfPackets": 207,
+              "dlNbOfPackets": 1785
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:50Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:36:45Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 30018,
-                            "ulVolume": 9967,
-                            "dlVolume": 20051,
-                            "totalNbOfPackets": 95,
-                            "ulNbOfPackets": 45,
-                            "dlNbOfPackets": 50
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "15947 bps",
-                            "dlThroughput": "32082 bps",
-                            "ulPacketThroughput": "9.00 pps",
-                            "dlPacketThroughput": "10.00 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:50Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:36:45Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 19951,
-                            "ulVolume": 2203,
-                            "dlVolume": 17748,
-                            "totalNbOfPackets": 42,
-                            "ulNbOfPackets": 23,
-                            "dlNbOfPackets": 19
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "3525 bps",
-                            "dlThroughput": "28397 bps",
-                            "ulPacketThroughput": "4.60 pps",
-                            "dlPacketThroughput": "3.80 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "33018 bps",
+              "dlThroughput": "2973403 bps",
+              "ulPacketThroughput": "41.40 pps",
+              "dlPacketThroughput": "357.00 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:55Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:36:50Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 7117,
-                            "ulVolume": 5443,
-                            "dlVolume": 1674,
-                            "totalNbOfPackets": 36,
-                            "ulNbOfPackets": 19,
-                            "dlNbOfPackets": 17
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "8709 bps",
-                            "dlThroughput": "2678 bps",
-                            "ulPacketThroughput": "3.80 pps",
-                            "dlPacketThroughput": "3.40 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:22Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:49:17Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 67511,
+              "ulVolume": 41396,
+              "dlVolume": 26115,
+              "totalNbOfPackets": 313,
+              "ulNbOfPackets": 193,
+              "dlNbOfPackets": 120
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:55Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:36:50Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 30254,
-                            "ulVolume": 8690,
-                            "dlVolume": 21564,
-                            "totalNbOfPackets": 117,
-                            "ulNbOfPackets": 56,
-                            "dlNbOfPackets": 61
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "13904 bps",
-                            "dlThroughput": "34502 bps",
-                            "ulPacketThroughput": "11.20 pps",
-                            "dlPacketThroughput": "12.20 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:36:55Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:36:50Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 0,
-                            "ulVolume": 0,
-                            "dlVolume": 0,
-                            "totalNbOfPackets": 0,
-                            "ulNbOfPackets": 0,
-                            "dlNbOfPackets": 0
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "0 bps",
-                            "dlThroughput": "0 bps",
-                            "ulPacketThroughput": "0.00 pps",
-                            "dlPacketThroughput": "0.00 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "66234 bps",
+              "dlThroughput": "41784 bps",
+              "ulPacketThroughput": "38.60 pps",
+              "dlPacketThroughput": "24.00 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:37:00Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:36:55Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 24004,
-                            "ulVolume": 6252,
-                            "dlVolume": 17752,
-                            "totalNbOfPackets": 69,
-                            "ulNbOfPackets": 28,
-                            "dlNbOfPackets": 41
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "10003 bps",
-                            "dlThroughput": "28403 bps",
-                            "ulPacketThroughput": "5.60 pps",
-                            "dlPacketThroughput": "8.20 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:27Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:49:22Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1727691,
+              "ulVolume": 9232,
+              "dlVolume": 1718459,
+              "totalNbOfPackets": 1727,
+              "ulNbOfPackets": 110,
+              "dlNbOfPackets": 1617
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:37:00Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:36:55Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 20182,
-                            "ulVolume": 5880,
-                            "dlVolume": 14302,
-                            "totalNbOfPackets": 76,
-                            "ulNbOfPackets": 36,
-                            "dlNbOfPackets": 40
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "9408 bps",
-                            "dlThroughput": "22883 bps",
-                            "ulPacketThroughput": "7.20 pps",
-                            "dlPacketThroughput": "8.00 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:37:00Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:36:55Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 16926,
-                            "ulVolume": 1870,
-                            "dlVolume": 15056,
-                            "totalNbOfPackets": 35,
-                            "ulNbOfPackets": 19,
-                            "dlNbOfPackets": 16
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "2992 bps",
-                            "dlThroughput": "24090 bps",
-                            "ulPacketThroughput": "3.80 pps",
-                            "dlPacketThroughput": "3.20 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "14771 bps",
+              "dlThroughput": "2749534 bps",
+              "ulPacketThroughput": "22.00 pps",
+              "dlPacketThroughput": "323.40 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    },
-    {
-        "notificationItems": [
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:37:05Z",
-                "ueIpv4Addr": "10.10.0.1",
-                "startTime": "2026-03-03T17:37:00Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 4459,
-                            "ulVolume": 3440,
-                            "dlVolume": 1019,
-                            "totalNbOfPackets": 25,
-                            "ulNbOfPackets": 12,
-                            "dlNbOfPackets": 13
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "5504 bps",
-                            "dlThroughput": "1630 bps",
-                            "ulPacketThroughput": "2.40 pps",
-                            "dlPacketThroughput": "2.60 pps"
-                        }
-                    }
-                ]
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:27Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:49:22Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1852207,
+              "ulVolume": 20724,
+              "dlVolume": 1831483,
+              "totalNbOfPackets": 1975,
+              "ulNbOfPackets": 209,
+              "dlNbOfPackets": 1766
             },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:37:05Z",
-                "ueIpv4Addr": "10.10.0.2",
-                "startTime": "2026-03-03T17:37:00Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 21595,
-                            "ulVolume": 6802,
-                            "dlVolume": 14793,
-                            "totalNbOfPackets": 64,
-                            "ulNbOfPackets": 27,
-                            "dlNbOfPackets": 37
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "10883 bps",
-                            "dlThroughput": "23669 bps",
-                            "ulPacketThroughput": "5.40 pps",
-                            "dlPacketThroughput": "7.40 pps"
-                        }
-                    }
-                ]
-            },
-            {
-                "eventType": "USER_DATA_USAGE_MEASURES",
-                "timeStamp": "2026-03-03T17:37:05Z",
-                "ueIpv4Addr": "10.10.0.3",
-                "startTime": "2026-03-03T17:37:00Z",
-                "userDataUsageMeasurements": [
-                    {
-                        "volumeMeasurement": {
-                            "totalVolume": 2250,
-                            "ulVolume": 0,
-                            "dlVolume": 2250,
-                            "totalNbOfPackets": 4,
-                            "ulNbOfPackets": 0,
-                            "dlNbOfPackets": 4
-                        },
-                        "throughputMeasurement": {
-                            "ulThroughput": "0 bps",
-                            "dlThroughput": "3600 bps",
-                            "ulPacketThroughput": "0.00 pps",
-                            "dlPacketThroughput": "0.80 pps"
-                        }
-                    }
-                ]
+            "throughputMeasurement": {
+              "ulThroughput": "33158 bps",
+              "dlThroughput": "2930373 bps",
+              "ulPacketThroughput": "41.80 pps",
+              "dlPacketThroughput": "353.20 pps"
             }
-        ],
-        "correlationId": "training_1772559250_run012"
-    }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:27Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:49:22Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 63233,
+              "ulVolume": 8343,
+              "dlVolume": 54890,
+              "totalNbOfPackets": 304,
+              "ulNbOfPackets": 49,
+              "dlNbOfPackets": 255
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "13349 bps",
+              "dlThroughput": "87824 bps",
+              "ulPacketThroughput": "9.80 pps",
+              "dlPacketThroughput": "51.00 pps"
+            }
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:32Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:49:27Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 3269812,
+              "ulVolume": 1620437,
+              "dlVolume": 1649375,
+              "totalNbOfPackets": 2953,
+              "ulNbOfPackets": 1442,
+              "dlNbOfPackets": 1511
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "2592699 bps",
+              "dlThroughput": "2639000 bps",
+              "ulPacketThroughput": "288.40 pps",
+              "dlPacketThroughput": "302.20 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:32Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:49:27Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 81994,
+              "ulVolume": 7382,
+              "dlVolume": 74612,
+              "totalNbOfPackets": 314,
+              "ulNbOfPackets": 105,
+              "dlNbOfPackets": 209
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "11811 bps",
+              "dlThroughput": "119379 bps",
+              "ulPacketThroughput": "21.00 pps",
+              "dlPacketThroughput": "41.80 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:32Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:49:27Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 37613,
+              "ulVolume": 1239,
+              "dlVolume": 36374,
+              "totalNbOfPackets": 213,
+              "ulNbOfPackets": 9,
+              "dlNbOfPackets": 204
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "1982 bps",
+              "dlThroughput": "58198 bps",
+              "ulPacketThroughput": "1.80 pps",
+              "dlPacketThroughput": "40.80 pps"
+            }
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:37Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:49:32Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 3338715,
+              "ulVolume": 1663180,
+              "dlVolume": 1675535,
+              "totalNbOfPackets": 2987,
+              "ulNbOfPackets": 1451,
+              "dlNbOfPackets": 1536
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "2661088 bps",
+              "dlThroughput": "2680856 bps",
+              "ulPacketThroughput": "290.20 pps",
+              "dlPacketThroughput": "307.20 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:37Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:49:32Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 37211,
+              "ulVolume": 7092,
+              "dlVolume": 30119,
+              "totalNbOfPackets": 265,
+              "ulNbOfPackets": 104,
+              "dlNbOfPackets": 161
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "11347 bps",
+              "dlThroughput": "48190 bps",
+              "ulPacketThroughput": "20.80 pps",
+              "dlPacketThroughput": "32.20 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:37Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:49:32Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 50908,
+              "ulVolume": 7208,
+              "dlVolume": 43700,
+              "totalNbOfPackets": 236,
+              "ulNbOfPackets": 21,
+              "dlNbOfPackets": 215
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "11533 bps",
+              "dlThroughput": "69920 bps",
+              "ulPacketThroughput": "4.20 pps",
+              "dlPacketThroughput": "43.00 pps"
+            }
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:42Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:49:37Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 3257363,
+              "ulVolume": 1588716,
+              "dlVolume": 1668647,
+              "totalNbOfPackets": 2892,
+              "ulNbOfPackets": 1401,
+              "dlNbOfPackets": 1491
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "2541946 bps",
+              "dlThroughput": "2669835 bps",
+              "ulPacketThroughput": "280.20 pps",
+              "dlPacketThroughput": "298.20 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:42Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:49:37Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 42541,
+              "ulVolume": 7408,
+              "dlVolume": 35133,
+              "totalNbOfPackets": 274,
+              "ulNbOfPackets": 109,
+              "dlNbOfPackets": 165
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "11853 bps",
+              "dlThroughput": "56213 bps",
+              "ulPacketThroughput": "21.80 pps",
+              "dlPacketThroughput": "33.00 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:42Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:49:37Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1184274,
+              "ulVolume": 46580,
+              "dlVolume": 1137694,
+              "totalNbOfPackets": 1362,
+              "ulNbOfPackets": 482,
+              "dlNbOfPackets": 880
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "74528 bps",
+              "dlThroughput": "1820310 bps",
+              "ulPacketThroughput": "96.40 pps",
+              "dlPacketThroughput": "176.00 pps"
+            }
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:47Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:49:42Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1971247,
+              "ulVolume": 953300,
+              "dlVolume": 1017947,
+              "totalNbOfPackets": 1848,
+              "ulNbOfPackets": 899,
+              "dlNbOfPackets": 949
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "1525280 bps",
+              "dlThroughput": "1628715 bps",
+              "ulPacketThroughput": "179.80 pps",
+              "dlPacketThroughput": "189.80 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:47Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:49:42Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 8162,
+              "ulVolume": 1736,
+              "dlVolume": 6426,
+              "totalNbOfPackets": 70,
+              "ulNbOfPackets": 26,
+              "dlNbOfPackets": 44
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "2778 bps",
+              "dlThroughput": "10282 bps",
+              "ulPacketThroughput": "5.20 pps",
+              "dlPacketThroughput": "8.80 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:47Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:49:42Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1033,
+              "ulVolume": 136,
+              "dlVolume": 897,
+              "totalNbOfPackets": 4,
+              "ulNbOfPackets": 2,
+              "dlNbOfPackets": 2
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "218 bps",
+              "dlThroughput": "1435 bps",
+              "ulPacketThroughput": "0.40 pps",
+              "dlPacketThroughput": "0.40 pps"
+            }
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:52Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:49:47Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1531067,
+              "ulVolume": 48638,
+              "dlVolume": 1482429,
+              "totalNbOfPackets": 1606,
+              "ulNbOfPackets": 510,
+              "dlNbOfPackets": 1096
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "77821 bps",
+              "dlThroughput": "2371886 bps",
+              "ulPacketThroughput": "102.00 pps",
+              "dlPacketThroughput": "219.20 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:52Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:49:47Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 289,
+              "ulVolume": 0,
+              "dlVolume": 289,
+              "totalNbOfPackets": 2,
+              "ulNbOfPackets": 0,
+              "dlNbOfPackets": 2
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "0 bps",
+              "dlThroughput": "462 bps",
+              "ulPacketThroughput": "0.00 pps",
+              "dlPacketThroughput": "0.40 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:52Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:49:47Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 21119,
+              "ulVolume": 8861,
+              "dlVolume": 12258,
+              "totalNbOfPackets": 49,
+              "ulNbOfPackets": 23,
+              "dlNbOfPackets": 26
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "14178 bps",
+              "dlThroughput": "19613 bps",
+              "ulPacketThroughput": "4.60 pps",
+              "dlPacketThroughput": "5.20 pps"
+            }
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:57Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:49:52Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 13219,
+              "ulVolume": 2549,
+              "dlVolume": 10670,
+              "totalNbOfPackets": 26,
+              "ulNbOfPackets": 11,
+              "dlNbOfPackets": 15
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "4078 bps",
+              "dlThroughput": "17072 bps",
+              "ulPacketThroughput": "2.20 pps",
+              "dlPacketThroughput": "3.00 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:57Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:49:52Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 0,
+              "ulVolume": 0,
+              "dlVolume": 0,
+              "totalNbOfPackets": 0,
+              "ulNbOfPackets": 0,
+              "dlNbOfPackets": 0
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "0 bps",
+              "dlThroughput": "0 bps",
+              "ulPacketThroughput": "0.00 pps",
+              "dlPacketThroughput": "0.00 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:49:57Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:49:52Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 74207,
+              "ulVolume": 11420,
+              "dlVolume": 62787,
+              "totalNbOfPackets": 128,
+              "ulNbOfPackets": 54,
+              "dlNbOfPackets": 74
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "18272 bps",
+              "dlThroughput": "100459 bps",
+              "ulPacketThroughput": "10.80 pps",
+              "dlPacketThroughput": "14.80 pps"
+            }
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:02Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:49:57Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 8857,
+              "ulVolume": 5605,
+              "dlVolume": 3252,
+              "totalNbOfPackets": 50,
+              "ulNbOfPackets": 28,
+              "dlNbOfPackets": 22
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "8968 bps",
+              "dlThroughput": "5203 bps",
+              "ulPacketThroughput": "5.60 pps",
+              "dlPacketThroughput": "4.40 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:02Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:49:57Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 181,
+              "ulVolume": 0,
+              "dlVolume": 181,
+              "totalNbOfPackets": 1,
+              "ulNbOfPackets": 0,
+              "dlNbOfPackets": 1
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "0 bps",
+              "dlThroughput": "290 bps",
+              "ulPacketThroughput": "0.00 pps",
+              "dlPacketThroughput": "0.20 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:02Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:49:57Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 81107,
+              "ulVolume": 5319,
+              "dlVolume": 75788,
+              "totalNbOfPackets": 130,
+              "ulNbOfPackets": 53,
+              "dlNbOfPackets": 77
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "8510 bps",
+              "dlThroughput": "121261 bps",
+              "ulPacketThroughput": "10.60 pps",
+              "dlPacketThroughput": "15.40 pps"
+            }
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:07Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:50:02Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 0,
+              "ulVolume": 0,
+              "dlVolume": 0,
+              "totalNbOfPackets": 0,
+              "ulNbOfPackets": 0,
+              "dlNbOfPackets": 0
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "0 bps",
+              "dlThroughput": "0 bps",
+              "ulPacketThroughput": "0.00 pps",
+              "dlPacketThroughput": "0.00 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:07Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:50:02Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 0,
+              "ulVolume": 0,
+              "dlVolume": 0,
+              "totalNbOfPackets": 0,
+              "ulNbOfPackets": 0,
+              "dlNbOfPackets": 0
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "0 bps",
+              "dlThroughput": "0 bps",
+              "ulPacketThroughput": "0.00 pps",
+              "dlPacketThroughput": "0.00 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:07Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:50:02Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 4207,
+              "ulVolume": 2824,
+              "dlVolume": 1383,
+              "totalNbOfPackets": 14,
+              "ulNbOfPackets": 7,
+              "dlNbOfPackets": 7
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "4518 bps",
+              "dlThroughput": "2213 bps",
+              "ulPacketThroughput": "1.40 pps",
+              "dlPacketThroughput": "1.40 pps"
+            }
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:12Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:50:07Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 0,
+              "ulVolume": 0,
+              "dlVolume": 0,
+              "totalNbOfPackets": 0,
+              "ulNbOfPackets": 0,
+              "dlNbOfPackets": 0
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "0 bps",
+              "dlThroughput": "0 bps",
+              "ulPacketThroughput": "0.00 pps",
+              "dlPacketThroughput": "0.00 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:12Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:50:07Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 0,
+              "ulVolume": 0,
+              "dlVolume": 0,
+              "totalNbOfPackets": 0,
+              "ulNbOfPackets": 0,
+              "dlNbOfPackets": 0
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "0 bps",
+              "dlThroughput": "0 bps",
+              "ulPacketThroughput": "0.00 pps",
+              "dlPacketThroughput": "0.00 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:12Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:50:07Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 17681,
+              "ulVolume": 8245,
+              "dlVolume": 9436,
+              "totalNbOfPackets": 68,
+              "ulNbOfPackets": 31,
+              "dlNbOfPackets": 37
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "13192 bps",
+              "dlThroughput": "15098 bps",
+              "ulPacketThroughput": "6.20 pps",
+              "dlPacketThroughput": "7.40 pps"
+            }
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:17Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:50:12Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1173,
+              "ulVolume": 555,
+              "dlVolume": 618,
+              "totalNbOfPackets": 14,
+              "ulNbOfPackets": 7,
+              "dlNbOfPackets": 7
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "888 bps",
+              "dlThroughput": "989 bps",
+              "ulPacketThroughput": "1.40 pps",
+              "dlPacketThroughput": "1.40 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:17Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:50:12Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 72226,
+              "ulVolume": 2723,
+              "dlVolume": 69503,
+              "totalNbOfPackets": 89,
+              "ulNbOfPackets": 32,
+              "dlNbOfPackets": 57
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "4357 bps",
+              "dlThroughput": "111205 bps",
+              "ulPacketThroughput": "6.40 pps",
+              "dlPacketThroughput": "11.40 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:17Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:50:12Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 57437,
+              "ulVolume": 7188,
+              "dlVolume": 50249,
+              "totalNbOfPackets": 117,
+              "ulNbOfPackets": 52,
+              "dlNbOfPackets": 65
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "11501 bps",
+              "dlThroughput": "80398 bps",
+              "ulPacketThroughput": "10.40 pps",
+              "dlPacketThroughput": "13.00 pps"
+            }
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:22Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:50:17Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 0,
+              "ulVolume": 0,
+              "dlVolume": 0,
+              "totalNbOfPackets": 0,
+              "ulNbOfPackets": 0,
+              "dlNbOfPackets": 0
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "0 bps",
+              "dlThroughput": "0 bps",
+              "ulPacketThroughput": "0.00 pps",
+              "dlPacketThroughput": "0.00 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:22Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:50:17Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 0,
+              "ulVolume": 0,
+              "dlVolume": 0,
+              "totalNbOfPackets": 0,
+              "ulNbOfPackets": 0,
+              "dlNbOfPackets": 0
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "0 bps",
+              "dlThroughput": "0 bps",
+              "ulPacketThroughput": "0.00 pps",
+              "dlPacketThroughput": "0.00 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:22Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:50:17Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 14897,
+              "ulVolume": 7473,
+              "dlVolume": 7424,
+              "totalNbOfPackets": 56,
+              "ulNbOfPackets": 26,
+              "dlNbOfPackets": 30
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "11957 bps",
+              "dlThroughput": "11878 bps",
+              "ulPacketThroughput": "5.20 pps",
+              "dlPacketThroughput": "6.00 pps"
+            }
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:27Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:50:22Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 966577,
+              "ulVolume": 29020,
+              "dlVolume": 937557,
+              "totalNbOfPackets": 1030,
+              "ulNbOfPackets": 348,
+              "dlNbOfPackets": 682
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "46432 bps",
+              "dlThroughput": "1500091 bps",
+              "ulPacketThroughput": "69.60 pps",
+              "dlPacketThroughput": "136.40 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:27Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:50:22Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 0,
+              "ulVolume": 0,
+              "dlVolume": 0,
+              "totalNbOfPackets": 0,
+              "ulNbOfPackets": 0,
+              "dlNbOfPackets": 0
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "0 bps",
+              "dlThroughput": "0 bps",
+              "ulPacketThroughput": "0.00 pps",
+              "dlPacketThroughput": "0.00 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:27Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:50:22Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 739766,
+              "ulVolume": 30018,
+              "dlVolume": 709748,
+              "totalNbOfPackets": 819,
+              "ulNbOfPackets": 278,
+              "dlNbOfPackets": 541
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "48029 bps",
+              "dlThroughput": "1135597 bps",
+              "ulPacketThroughput": "55.60 pps",
+              "dlPacketThroughput": "108.20 pps"
+            }
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:32Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:50:27Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 60456,
+              "ulVolume": 17405,
+              "dlVolume": 43051,
+              "totalNbOfPackets": 141,
+              "ulNbOfPackets": 65,
+              "dlNbOfPackets": 76
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "27848 bps",
+              "dlThroughput": "68882 bps",
+              "ulPacketThroughput": "13.00 pps",
+              "dlPacketThroughput": "15.20 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:32Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:50:27Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 0,
+              "ulVolume": 0,
+              "dlVolume": 0,
+              "totalNbOfPackets": 0,
+              "ulNbOfPackets": 0,
+              "dlNbOfPackets": 0
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "0 bps",
+              "dlThroughput": "0 bps",
+              "ulPacketThroughput": "0.00 pps",
+              "dlPacketThroughput": "0.00 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:32Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:50:27Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 977765,
+              "ulVolume": 41722,
+              "dlVolume": 936043,
+              "totalNbOfPackets": 1129,
+              "ulNbOfPackets": 398,
+              "dlNbOfPackets": 731
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "66755 bps",
+              "dlThroughput": "1497669 bps",
+              "ulPacketThroughput": "79.60 pps",
+              "dlPacketThroughput": "146.20 pps"
+            }
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:37Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:50:32Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1124899,
+              "ulVolume": 34878,
+              "dlVolume": 1090021,
+              "totalNbOfPackets": 1207,
+              "ulNbOfPackets": 409,
+              "dlNbOfPackets": 798
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "55805 bps",
+              "dlThroughput": "1744034 bps",
+              "ulPacketThroughput": "81.80 pps",
+              "dlPacketThroughput": "159.60 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:37Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:50:32Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 0,
+              "ulVolume": 0,
+              "dlVolume": 0,
+              "totalNbOfPackets": 0,
+              "ulNbOfPackets": 0,
+              "dlNbOfPackets": 0
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "0 bps",
+              "dlThroughput": "0 bps",
+              "ulPacketThroughput": "0.00 pps",
+              "dlPacketThroughput": "0.00 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:37Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:50:32Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 5299,
+              "ulVolume": 829,
+              "dlVolume": 4470,
+              "totalNbOfPackets": 15,
+              "ulNbOfPackets": 6,
+              "dlNbOfPackets": 9
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "1326 bps",
+              "dlThroughput": "7152 bps",
+              "ulPacketThroughput": "1.20 pps",
+              "dlPacketThroughput": "1.80 pps"
+            }
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:42Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:50:37Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 11871,
+              "ulVolume": 2303,
+              "dlVolume": 9568,
+              "totalNbOfPackets": 28,
+              "ulNbOfPackets": 12,
+              "dlNbOfPackets": 16
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "3685 bps",
+              "dlThroughput": "15309 bps",
+              "ulPacketThroughput": "2.40 pps",
+              "dlPacketThroughput": "3.20 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:42Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:50:37Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 0,
+              "ulVolume": 0,
+              "dlVolume": 0,
+              "totalNbOfPackets": 0,
+              "ulNbOfPackets": 0,
+              "dlNbOfPackets": 0
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "0 bps",
+              "dlThroughput": "0 bps",
+              "ulPacketThroughput": "0.00 pps",
+              "dlPacketThroughput": "0.00 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:42Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:50:37Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 6488,
+              "ulVolume": 4854,
+              "dlVolume": 1634,
+              "totalNbOfPackets": 24,
+              "ulNbOfPackets": 12,
+              "dlNbOfPackets": 12
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "7766 bps",
+              "dlThroughput": "2614 bps",
+              "ulPacketThroughput": "2.40 pps",
+              "dlPacketThroughput": "2.40 pps"
+            }
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:47Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:50:42Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 14634,
+              "ulVolume": 7978,
+              "dlVolume": 6656,
+              "totalNbOfPackets": 44,
+              "ulNbOfPackets": 23,
+              "dlNbOfPackets": 21
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "12765 bps",
+              "dlThroughput": "10650 bps",
+              "ulPacketThroughput": "4.60 pps",
+              "dlPacketThroughput": "4.20 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:47Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:50:42Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 0,
+              "ulVolume": 0,
+              "dlVolume": 0,
+              "totalNbOfPackets": 0,
+              "ulNbOfPackets": 0,
+              "dlNbOfPackets": 0
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "0 bps",
+              "dlThroughput": "0 bps",
+              "ulPacketThroughput": "0.00 pps",
+              "dlPacketThroughput": "0.00 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:47Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:50:42Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 151849,
+              "ulVolume": 14945,
+              "dlVolume": 136904,
+              "totalNbOfPackets": 248,
+              "ulNbOfPackets": 100,
+              "dlNbOfPackets": 148
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "23912 bps",
+              "dlThroughput": "219046 bps",
+              "ulPacketThroughput": "20.00 pps",
+              "dlPacketThroughput": "29.60 pps"
+            }
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:52Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:50:47Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 137143,
+              "ulVolume": 11406,
+              "dlVolume": 125737,
+              "totalNbOfPackets": 209,
+              "ulNbOfPackets": 86,
+              "dlNbOfPackets": 123
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "18250 bps",
+              "dlThroughput": "201179 bps",
+              "ulPacketThroughput": "17.20 pps",
+              "dlPacketThroughput": "24.60 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:52Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:50:47Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 0,
+              "ulVolume": 0,
+              "dlVolume": 0,
+              "totalNbOfPackets": 0,
+              "ulNbOfPackets": 0,
+              "dlNbOfPackets": 0
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "0 bps",
+              "dlThroughput": "0 bps",
+              "ulPacketThroughput": "0.00 pps",
+              "dlPacketThroughput": "0.00 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:52Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:50:47Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 0,
+              "ulVolume": 0,
+              "dlVolume": 0,
+              "totalNbOfPackets": 0,
+              "ulNbOfPackets": 0,
+              "dlNbOfPackets": 0
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "0 bps",
+              "dlThroughput": "0 bps",
+              "ulPacketThroughput": "0.00 pps",
+              "dlPacketThroughput": "0.00 pps"
+            }
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:57Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:50:52Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 6801,
+              "ulVolume": 2648,
+              "dlVolume": 4153,
+              "totalNbOfPackets": 21,
+              "ulNbOfPackets": 10,
+              "dlNbOfPackets": 11
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "4237 bps",
+              "dlThroughput": "6645 bps",
+              "ulPacketThroughput": "2.00 pps",
+              "dlPacketThroughput": "2.20 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:57Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:50:52Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 0,
+              "ulVolume": 0,
+              "dlVolume": 0,
+              "totalNbOfPackets": 0,
+              "ulNbOfPackets": 0,
+              "dlNbOfPackets": 0
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "0 bps",
+              "dlThroughput": "0 bps",
+              "ulPacketThroughput": "0.00 pps",
+              "dlPacketThroughput": "0.00 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:50:57Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:50:52Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 3796,
+              "ulVolume": 2335,
+              "dlVolume": 1461,
+              "totalNbOfPackets": 16,
+              "ulNbOfPackets": 8,
+              "dlNbOfPackets": 8
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "3736 bps",
+              "dlThroughput": "2338 bps",
+              "ulPacketThroughput": "1.60 pps",
+              "dlPacketThroughput": "1.60 pps"
+            }
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:51:02Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:50:57Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 7390,
+              "ulVolume": 5629,
+              "dlVolume": 1761,
+              "totalNbOfPackets": 32,
+              "ulNbOfPackets": 17,
+              "dlNbOfPackets": 15
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "9006 bps",
+              "dlThroughput": "2818 bps",
+              "ulPacketThroughput": "3.40 pps",
+              "dlPacketThroughput": "3.00 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:51:02Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:50:57Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 0,
+              "ulVolume": 0,
+              "dlVolume": 0,
+              "totalNbOfPackets": 0,
+              "ulNbOfPackets": 0,
+              "dlNbOfPackets": 0
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "0 bps",
+              "dlThroughput": "0 bps",
+              "ulPacketThroughput": "0.00 pps",
+              "dlPacketThroughput": "0.00 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:51:02Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:50:57Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 19081,
+              "ulVolume": 8766,
+              "dlVolume": 10315,
+              "totalNbOfPackets": 70,
+              "ulNbOfPackets": 33,
+              "dlNbOfPackets": 37
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "14026 bps",
+              "dlThroughput": "16504 bps",
+              "ulPacketThroughput": "6.60 pps",
+              "dlPacketThroughput": "7.40 pps"
+            }
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:51:07Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:51:02Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 26745,
+              "ulVolume": 6972,
+              "dlVolume": 19773,
+              "totalNbOfPackets": 83,
+              "ulNbOfPackets": 37,
+              "dlNbOfPackets": 46
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "11155 bps",
+              "dlThroughput": "31637 bps",
+              "ulPacketThroughput": "7.40 pps",
+              "dlPacketThroughput": "9.20 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:51:07Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:51:02Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 0,
+              "ulVolume": 0,
+              "dlVolume": 0,
+              "totalNbOfPackets": 0,
+              "ulNbOfPackets": 0,
+              "dlNbOfPackets": 0
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "0 bps",
+              "dlThroughput": "0 bps",
+              "ulPacketThroughput": "0.00 pps",
+              "dlPacketThroughput": "0.00 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:51:07Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:51:02Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 11887,
+              "ulVolume": 5560,
+              "dlVolume": 6327,
+              "totalNbOfPackets": 41,
+              "ulNbOfPackets": 19,
+              "dlNbOfPackets": 22
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "8896 bps",
+              "dlThroughput": "10123 bps",
+              "ulPacketThroughput": "3.80 pps",
+              "dlPacketThroughput": "4.40 pps"
+            }
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  },
+  {
+    "notificationItems": [
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:51:12Z",
+        "ueIpv4Addr": "10.0.0.1",
+        "startTime": "2026-03-30T14:51:07Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 0,
+              "ulVolume": 0,
+              "dlVolume": 0,
+              "totalNbOfPackets": 0,
+              "ulNbOfPackets": 0,
+              "dlNbOfPackets": 0
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "0 bps",
+              "dlThroughput": "0 bps",
+              "ulPacketThroughput": "0.00 pps",
+              "dlPacketThroughput": "0.00 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:51:12Z",
+        "ueIpv4Addr": "10.0.0.2",
+        "startTime": "2026-03-30T14:51:07Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 0,
+              "ulVolume": 0,
+              "dlVolume": 0,
+              "totalNbOfPackets": 0,
+              "ulNbOfPackets": 0,
+              "dlNbOfPackets": 0
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "0 bps",
+              "dlThroughput": "0 bps",
+              "ulPacketThroughput": "0.00 pps",
+              "dlPacketThroughput": "0.00 pps"
+            }
+          }
+        ]
+      },
+      {
+        "eventType": "USER_DATA_USAGE_MEASURES",
+        "timeStamp": "2026-03-30T14:51:12Z",
+        "ueIpv4Addr": "10.0.0.3",
+        "startTime": "2026-03-30T14:51:07Z",
+        "userDataUsageMeasurements": [
+          {
+            "volumeMeasurement": {
+              "totalVolume": 1237,
+              "ulVolume": 360,
+              "dlVolume": 877,
+              "totalNbOfPackets": 15,
+              "ulNbOfPackets": 5,
+              "dlNbOfPackets": 10
+            },
+            "throughputMeasurement": {
+              "ulThroughput": "576 bps",
+              "dlThroughput": "1403 bps",
+              "ulPacketThroughput": "1.00 pps",
+              "dlPacketThroughput": "2.00 pps"
+            }
+          }
+        ]
+      }
+    ],
+    "correlationId": "training_1774882107_run012"
+  }
 ]
