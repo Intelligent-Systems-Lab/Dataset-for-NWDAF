@@ -1,0 +1,8 @@
+{
+    "clients": ["10.10.0.1", "10.10.0.2", "10.10.0.3"],
+    "dst_ip": "8.8.8.8",
+    "interval_seconds": 5,
+    "total_steps": 60000,
+    "breaking_time": 150000,
+    "total_duration_seconds": 299995
+}
